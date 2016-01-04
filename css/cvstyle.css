@@ -1,0 +1,158 @@
+html,body,div,h1,h2,p,img,ol,ul,li,tr,th,td,footer,header,section {
+border:0;
+font-size:100%;
+margin:0;
+padding:0;
+vertical-align:baseline;
+}
+footer,header,section {
+display:block;
+}
+html, body {
+	font-family: Arial, Tacoma, sans-serif; font-size: 16px; color: #000000;
+}
+.clear {
+	clear: both;
+}
+.nav {
+  margin: 20px 0px 20px 0px;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 14px 20px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 1px #f1f1f1;
+}
+.nav li {
+  display: inline;
+}
+p {
+	font-size: 16px;
+	line-height: 22px;
+	margin-bottom: 20px;
+	color: #4f4f4f;
+}
+#cv {
+	width: 90%;
+	max-width: 800px;
+	background: #f3f3f3;
+	margin: 30px;
+}
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom: 2px solid #3366ff;
+	background: #ededed;
+}
+#name h1 {
+	font-size: 40px;
+	font-weight: 700;
+	font-family: Arial, Tacoma, sans-serif;
+	margin-bottom: -5px;
+}
+#name h2 {
+	font-size: 32px;
+	margin-left: 2px;
+	font-family: Arial, Tacoma, sans-serif;
+}
+#mainArea {
+	padding: 0 40px;
+}
+#photo {
+	width: 15%;
+	float: left;
+	margin-right: 30px;
+}
+#photo img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+#name {
+	float: left;
+}
+#contactDetails {
+	float: right;
+	display: block;
+}
+#contactDetails ul {
+	list-style-type: none;
+	font-size: 13px;
+	margin-top: 2px;
+}
+#contactDetails ul li {
+	margin-bottom: 3px;
+	color: #4f4f4f;
+	font-size: 13px;
+	display: inline;
+}
+#contactDetails ul li a {
+	color: #4f4f4f; 
+	text-decoration: none;
+	font-size: 13px;
+	display: inline;
+}
+#contactDetails ul li a:hover { 
+	color: #0033ff
+}
+section {
+	border-top: 1px solid #3366ff;
+	padding: 20px 0 0;
+}
+section:first-child {
+	border-top: 0;
+}
+section:last-child {
+	padding: 20px 0 10px;
+}
+.sectionTitle {
+	float: left;
+	width: 25%;
+}
+.sectionContent {
+	
+	float: right;
+	width: 72.5%;
+}
+.sectionTitle h1 {
+	font-family: Arial, Tacoma, sans-serif;
+	font-style: italic;
+	font-size: 22px;
+	color: #3366ff
+}
+.sectionContent h2 {
+	font-family: Arial, Tacoma, sans-serif;
+	font-size: 22px;
+	margin-bottom: -2px;
+}
+.subDetails {
+	font-size: 13px;
+	font-style: italic;
+	margin-bottom: 3px;
+}
+.keySkills {
+	list-style-type: none;
+	margin-bottom: 20px;
+	font-size: 16px;
+	color: #4f4f4f;
+}
+.keySkills ul li {
+	margin-bottom: 3px;
+}
+.footer {
+	border-radius: 3px;
+	padding: 10px;
+	margin-top: 20px;
+	height:40px;
+	width: 100%;
+	position: inherit;
+	background-color: #3366ff;
+}
+.footer p{
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+}
+
+

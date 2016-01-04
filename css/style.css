@@ -1,0 +1,74 @@
+﻿table {
+	margin: 25px;
+	padding: 5px;
+	border: 1px solid black;
+}
+td {
+	padding: 5px;
+}
+/*tr{
+	padding: 5px;
+}*/
+.cv {
+	list-style-type: none; 
+}
+.nav {
+  margin: 20px 0px 20px 0px;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 14px 20px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 1px #f1f1f1;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://goo.gl/klxS49');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+#kontakt {
+ position: absolute;
+ top: 20%;
+ left: 3%;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 3px 3px 1px #000033;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  text-shadow: 2px 2px #000033;
+}
+.footer {
+	border-radius: 3px;
+	padding: 10px;
+	margin-top: 20px;
+	height:40px;
+	width: 100%;
+	position: inherit;
+	background-color: #3366ff;
+}
+.footer p{
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+}
